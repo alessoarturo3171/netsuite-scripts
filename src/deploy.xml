@@ -1,0 +1,5 @@
+<deploy>
+    <files>
+        <path>~/FileCabinet/SuiteScripts/*</path>
+    </files>
+</deploy>
